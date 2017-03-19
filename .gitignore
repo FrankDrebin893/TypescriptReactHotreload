@@ -1,0 +1,6 @@
+node_modules/
+.vscode/
+documentation/
+typings/
+
+src/client/public/bundle.*
